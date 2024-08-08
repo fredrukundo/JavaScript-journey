@@ -68,8 +68,8 @@ console.log("filtered Arr: ", filteredArr);
    - Math.random()
 */
 
-console.log("max: ",Math.max(1, 0, 7, 100, 80));
-console.log("min: ",Math.min(1, 0, 7, 100, 80));
+console.log("max: ",Math.max(1, 0, 7, 1000, 80));
+console.log("min: ",Math.min(11, 0, 7, 100, 80));
 
 console.log("round: ",Math.round(12.563456));
 console.log("round: ",Math.floor(12.963456));
