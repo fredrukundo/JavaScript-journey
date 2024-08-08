@@ -14,3 +14,5 @@ ctrl+shift+j: open "Console" tab in dev tools
 ```
 
 Always try to have your `script` tag before the closing `body` tag, because we can access the HTML elements written above the `script` tag as they are above the JS.
+
+* Also we can run it via Node.js - instead of running in the context of a website we run it in an actual machine. In console, run: `node file.js`
