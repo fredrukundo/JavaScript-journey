@@ -1,10 +1,10 @@
 /*
-   everything in javascript is objects
+   everything in javascript is objects.
    - objects are used for collection of data, collection of functionality
 */
 
 const person = {
-   name : "fred",
+   name : "Duke",
    age : 23,
    
 };
@@ -21,7 +21,7 @@ console.log(a);
 
 const agie =14;
 const isAge = agie < 18;
-const agie1 = '14';
+const agie1 = '15';
 if (isAge) {
    console.log("true value", isAge);
 }
